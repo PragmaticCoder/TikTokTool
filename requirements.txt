@@ -1,0 +1,16 @@
+certifi==2020.6.20
+chardet==3.0.4
+colorama==0.4.3
+h11==0.8.1
+h2==3.2.0
+hpack==3.0.0
+hstspreload==2020.8.12
+httpx==0.7.8
+hyperframe==5.2.0
+idna==2.10
+loguru==0.3.2
+pydantic==0.32.2
+rfc3986==1.4.0
+tiktok-bot==0.6.4
+tqdm==4.48.2
+typing-extensions==3.7.4.2
